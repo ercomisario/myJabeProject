@@ -1,0 +1,26 @@
+{
+  "tareas" :[
+    {
+      "titulo" : "Tarea 1",
+      "responsable" : "Jesus",
+      "descripcion" :"Cualquier cosa 1",
+      "prioridad":"low"
+    },{
+      "titulo" : "Tarea 2",
+      "responsable" : "Maria",
+      "descripcion":"Cualquier cosa 2",
+      "prioridad":"medium"
+    },{
+      "titulo" : "Tarea 3",
+      "responsable" : "José",
+      "descripcion":"Cualquier cosa 3",
+      "prioridad":"high"
+    },{
+      "titulo" : "Tarea 4",
+      "responsable" : "Ana",
+      "descripcion":"Cualquier cosa 4",
+      "prioridad":"low"
+    }
+  ]
+
+}
